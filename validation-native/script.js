@@ -1,5 +1,4 @@
 // fazer um validador de idade que não aceite se o usuário tiver menos de 18 anos e mais de 60 anos usando a data de nascimento
-
 const today = new Date()
 
 function formatDate(date) {
